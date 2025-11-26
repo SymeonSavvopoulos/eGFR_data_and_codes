@@ -1,0 +1,10 @@
+
+Variance components:
+    Var(u0) = 403.771, Var(u1) = 44.567, Cov(u0,u1) = -53.234, sigma^2 = 106.197
+ICC:
+    Time_c=0: 0.792 | 42d: 0.812 | 365d: 0.775
+
+Residuals:
+    mean = -0.0000, sd = 7.262, skew = 0.373, excess kurtosis = 1.238
+Heteroscedasticity proxies:
+    corr(|resid|, fitted) Pearson = 0.210, Spearman = 0.117
